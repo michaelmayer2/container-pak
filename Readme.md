@@ -1,12 +1,3 @@
----
-title: "System requirement simplification for both legacy and new containers"
-author: "Michael Mayer"
-format: pdf
-editor: visual
-execute:
-  eval: false
----
-
 ## Introduction
 
 This document serves as a quick reference on how [pak](https://pak.r-lib.org/) could be used to 
